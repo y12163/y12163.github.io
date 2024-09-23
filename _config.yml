@@ -111,7 +111,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - Participated in the research of developing <b>hierarchical discrete representation learning with abstraction states for states and actions. 
+          - Participated in the research of developing <b>hierarchical discrete representation learning</b> with abstraction states for states and actions. 
           - Worked on data transmission pipeline with mujoco viewer and gym wrapper to process the camera viewer input to output multiple perspectives based on user settings
           - Implemented the baseline method <b>SAC with gumble softmax</b> to explore discrete state and action environment to compare performance with proposed framework 
 
@@ -175,7 +175,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Assisted instructional lab sessions about product sketching, CAD modeling, 3d printing
+            - Assisted instructional lab sessions about product sketching, CAD modeling, 3D printing
             - Mentored student projects of creating CAD models from actual products
 
 
@@ -186,7 +186,7 @@ content:
         title: RealtySage.com
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Data Science Intern
+        sub_title: Data Science Intern, Remote
         caption: Mar 2010 - July 2020
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -198,7 +198,7 @@ content:
         title: Cushman & Wakefield
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Software Engineer
+        sub_title: Software Engineer, Chicago/Champaign, IL
         caption: August 2019 - December 2019
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
