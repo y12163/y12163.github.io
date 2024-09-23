@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Yu Wang
-title: Senior Network System Administrator
+name: Yu Wang (she/her/hers)
+title: MSCS Student @ Georgia Tech
 email: ywang3174@gatech.edu
 website: y12163.github.io
 
@@ -15,25 +15,25 @@ website: y12163.github.io
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# twitter_username: facespics
+# github_username:  sproogen
+# # stackoverflow_username: "00000001"
+# # dribbble_username: jekyll
+# # facebook_username: jekyll
+# # flickr_username: jekyll
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
+# # xing_username: jekyll
+# # pinterest_username: jekyll
+# youtube_username: globalmtb
+# # googleplus_username: +jekyll
+# # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,71 +46,176 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <font size="4"> Hi, my name's Yu Wang and I'm a master student in computer science at <b>Georgia Tech</b>. Before I came to Georgia Tech, I obtained my B.S. and M.S. in systems and industrial engineering from <b>University of Illinois at Urbana-Champaign </b> (GPA 3.7/4.0).
+  I was part of parasol lab at UIUC and got involved with research about motion planning of robotics.
+  I had passion in machine learning and robotics. </font>
+# Relevant Coursework: Data Structure, Database, Data Mining, Artificial Intelligence, Analog Signal Processing, Control Systems, State Space Design for Control
 
 content:
-  - title: Projects # Title for the section
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: Georgia Institute of Technology
+  #       caption: 2024 - 
+  #       sub_title: MS Computer Science
+  #       quote: >
+  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  #       description: | # this will include new lines to allow paragraphs
+  #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+  #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      
+  #     - layout: left
+  #       title: University of Illinois at Urbana-Champaign
+  #       caption: 2020 - 2023
+  #       sub_title: MS Industrial Engineering (GPA:3.65/4.00)
+  #       quote: >
+  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  #       description: | # this will include new lines to allow paragraphs
+  #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+  #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  #     - layout: left
+  #       title: University of Illinois at Urbana-Champaign
+  #       caption: 2016 - 2019
+  #       sub_title: BS Systems Engineering and Design (GPA:3.78/4.00)
+  #       quote: >
+  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  #       description: | # this will include new lines to allow paragraphs
+  #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+  #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+      - layout: left
+        title: Sampling Based Guided Search
+        caption: Aug 2023 - Mar 2024
+        sub_title: Parasol lab at U of I, Champaign, IL
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - Assisted the research to build a <b>motion planning</b> framework that biased <b>search based on past experience</b>
+          - Participated in creating the fundamental tree database which obtained annotated values for nodes with different deep neural networks
+          - Implemented a heuristic search baseline that adopted cost-to-go value to bias the search in different test environments as a comparison to the proposed model
+
+      - layout: left
+        title: Hierarchical Discrete Representation Learning
+        caption: Nov 2022 - May 2023
+        sub_title: Parasol lab at U of I, Champaign, IL
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          - Participated in the research of developing <b>hierarchical discrete representation learning with abstraction states for states and actions. 
+          - Worked on data transmission pipeline with mujoco viewer and gym wrapper to process the camera viewer input to output multiple perspectives based on user settings
+          - Implemented the baseline method <b>SAC with gumble softmax</b> to explore discrete state and action environment to compare performance with proposed framework 
+
+  # - title: Research # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       -title: AAA
+  #         link: github.com/sproogen
+  #         # link_text: Project Website
+          
+  #         # additional_links:
+  #         #   - title:  sproogen/modern-resume-theme
+  #         #     icon: fab fa-github
+  #         #     url: github.com/sproogen/modern-resume-theme
+  #         #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   #   icon: fab fa-github
+  #         #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #         quote: >
+  #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #         description: | # this will include new lines to allow paragraphs
+  #           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one
+  #     #- layout: left
+  #       -title: BBB
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #       - Built
+  #       - Implemented
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Teaching & Course Assistance # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Teaching Assistant
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: CS440 Artifial Intelligent, University of Illinois at Urbana-Champaign
+        caption: Jan 2023 - May 2023
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            - Held office hours for students to assist them with course materials and assignments
+            - Designed course materials to facilitate teaching
+
+      - layout: left
+        title: Course Assistant
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: SE101 Engineering Graphics & Design, University of Illinois at Urbana-Champaign
+        caption: August 2017 - December 2019
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            - Assisted instructional lab sessions about product sketching, CAD modeling, 3d printing
+            - Mentored student projects of creating CAD models from actual products
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: RealtySage.com
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Data Science Intern
+        caption: Mar 2010 - July 2020
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - Cleaned 210k sets of housing information data using techniques such as outlier detection, null replacement.
+            - Built feature vectors with Grid Search on <b>Random Forest</b> and implemented a recommendation system based on ML models with sklearn to achieve a prediction accuracy over 90 percent
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+      - layout: left  
+        title: Cushman & Wakefield
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: August 2019 - December 2019
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+            - Programmed frontend webpages, backend servers and database structure for profiles of users and games in <b>Angular C# and SQL</b>
+            - Hosted the web servers on <b>Azure</b> and stored the data on Azure SQL database 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in computer science and engineering design some of my other interests and hobbies are:
+      - Game Development
+      - Learning Languages
+# - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      # Look at this cool image  
+# ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
